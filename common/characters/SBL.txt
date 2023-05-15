@@ -1,0 +1,15 @@
+characters={
+	SBL_alexandr_chervjakov={
+		name=SBL_alexandr_chervjakov
+		portraits={
+			civilian={
+				large=GFX_portrait_SBL_alexandr_chervjakov
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

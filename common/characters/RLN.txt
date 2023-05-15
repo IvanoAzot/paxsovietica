@@ -1,0 +1,15 @@
+characters={
+	RLN_ernst_uilton={
+		name=RLN_ernst_uilton
+		portraits={
+			civilian={
+				large=GFX_portrait_RLN_ernst_uilton
+			}
+		}
+		country_leader={
+			ideology=liberalism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

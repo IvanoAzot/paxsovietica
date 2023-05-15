@@ -1,0 +1,71 @@
+characters = {
+	RUS_tsar_vladimir_kirillovich = {
+		name = RUS_tsar_vladimir_kirillovich
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_SOV_vladimir_kirillovich"
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "1953.3.1.1"
+			id = -1
+			traits = {
+				emperor_and_autocrat_of_all_the_russias
+			}
+		}
+	}
+	RUS_provisional_government = {
+		name = RUS_provisional_government
+
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_SOV_white_transitionary_council"
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			expire = "1953.3.1.1"
+			id = -1
+			traits = {
+				emigre_connections desperate_gambit dysfunctional_assembly
+			}
+		}
+	}
+	RUS_konstantin_rodzayevsky = {
+		name = RUS_konstantin_rodzayevsky
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_konstantin_rodzayevsky
+			}
+			army = {
+				small = "GFX_idea_konstantin_rodzaevsky"
+			}
+		}
+
+		country_leader = {
+			ideology = fascism_ideology
+			traits = { fascist_orchestrator }
+			expire = "1953.3.1.1"
+			id = -1
+		}
+	}	
+	RUS_aleksandr_kerensky = {
+		name = RUS_aleksandr_kerensky
+
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SOV_aleksandr_kerensky
+			}
+			army = {
+				small = "GFX_idea_alexander_kerensky"
+			}
+		}
+		country_leader = {
+			ideology = socialism
+			expire = "1953.3.1.1"
+			id = -1
+		}
+		allowed_civil_war = { tag = SOV}
+	}	
+}

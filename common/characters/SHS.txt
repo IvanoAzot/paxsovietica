@@ -1,0 +1,15 @@
+characters = {
+	SHS_thomas_madsel_mjugdal = {
+		name = SHS_thomas_madsel_mjugdal
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_SHS_thomas_madsel_mjugdal"
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "1953.3.1.1"
+			id = -1
+		}
+	}	
+}

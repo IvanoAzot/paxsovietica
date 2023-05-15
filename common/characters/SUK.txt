@@ -1,0 +1,15 @@
+characters={
+	SUK_grigory_petrovskiy={
+		name=SUK_grigory_petrovskiy
+		portraits={
+			civilian={
+				large=GFX_portrait_SUK_grigory_petrovskiy
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

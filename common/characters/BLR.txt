@@ -1,0 +1,15 @@
+characters={
+	BLR_joseph_lesik={
+		name=BLR_joseph_lesik
+		portraits={
+			civilian={
+				large=GFX_portrait_BLR_joseph_lesik
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

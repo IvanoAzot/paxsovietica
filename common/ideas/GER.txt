@@ -1,0 +1,85 @@
+ideas = {
+	country = {
+		GER_golden_thirties = {
+			picture = GER_golden_thirties
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				consumer_goods_factor = 0.025
+				stability_factor = -0.05
+				political_power_gain = -0.15
+				war_support_factor = -0.05
+				production_speed_buildings_factor = -0.075
+				industrial_capacity_factory = -0.075
+				industrial_capacity_dockyard = -0.075
+			}
+		}
+		GER_treaty_of_versailles = {
+			picture = GER_treaty_of_versailles
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				conscription = -0.005
+				conscription_factor = -0.25
+				industrial_capacity_factory = -0.25
+				industrial_capacity_dockyard = -0.25
+				production_speed_arms_factory_factor = -0.75
+				production_speed_dockyard_factor = -0.75
+			}
+		}
+		GER_hyperinflation = {
+			picture = GER_hyperinflation
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				consumer_goods_factor = 0.05
+				production_speed_buildings_factor = -0.15
+				industrial_capacity_factory = -0.10
+				industrial_capacity_dockyard = -0.10
+			}
+		}
+		GER_SA_violence = {
+			picture = GER_SA_violence
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				political_power_gain = -0.05
+				stability_factor = -0.05
+				industrial_capacity_factory = -0.01
+			}
+		}
+		GER_rot_front_activity = {
+			picture = GER_rot_front_activity
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				political_power_gain = -0.05
+				stability_factor = -0.05
+				industrial_capacity_factory = -0.01
+			}
+		}
+		GER_losers_of_the_great_war = {
+			picture = GER_losers_of_the_great_war
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				political_power_factor = -0.10			
+				stability_factor = -0.15
+				war_support_factor = -0.25
+				
+			}
+		}		
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+	FTR_nestor_makhno = {
+		name = FTR_nestor_makhno
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_FTR_nestor_makhno"
+			}
+		}
+		country_leader = {
+			ideology = anarchist_communism
+			expire = "1953.3.1.1"
+			id = -1
+		}
+	}	
+}

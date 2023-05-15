@@ -1,0 +1,15 @@
+characters = {
+	NRS_nikolai_chaikovskiy = {
+		name = NRS_nikolai_chaikovskiy
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_NRS_nikolai_chaikovskiy"
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "1953.3.1.1"
+			id = -1
+		}
+	}	
+}

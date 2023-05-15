@@ -1,0 +1,15 @@
+characters={
+	GEO_noe_zordania={
+		name=GEO_noe_zordania
+		portraits={
+			civilian={
+				large=GFX_portrait_GEO_noe_zordania
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,51 @@
+ideas = {
+	country = {
+		HUN_balkan_home_of_revolution = {
+			picture = unknown
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = 0.05
+				war_support_factor = 0.10
+				political_power_gain = 0.15
+			}
+		}
+		HUN_bourgeois_opposition = {
+			picture = unknown
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = -0.25
+				democratic_drift = 0.1
+			}
+		}
+		HUN_ethnic_tension = {
+			picture = unknown
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				stability_factor = -0.25
+				war_support_factor = -0.25
+				army_core_attack_factor = -0.10
+				army_core_defence_factor = -0.10
+			}
+		}
+		HUN_hungarian_red_army = {
+			picture = unknown
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+				army_org_factor = 0.05
+				max_planning = 0.10
+			}
+		}
+	}
+}

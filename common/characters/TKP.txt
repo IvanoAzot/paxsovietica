@@ -1,0 +1,15 @@
+characters={
+	TKP_oraz_sirdar={
+		name=TKP_oraz_sirdar
+		portraits={
+			civilian={
+				large=GFX_portrait_TKP_oraz_sirdar
+			}
+		}
+		country_leader={
+			ideology=oligarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

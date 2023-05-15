@@ -1,0 +1,15 @@
+characters={
+	ARM_simon_vracjan={
+		name=ARM_simon_vracjan
+		portraits={
+			civilian={
+				large=GFX_portrait_ARM_simon_vracjan
+			}
+		}
+		country_leader={
+			ideology=socialism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

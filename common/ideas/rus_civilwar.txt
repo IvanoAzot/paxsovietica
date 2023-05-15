@@ -1,0 +1,108 @@
+ideas = {
+	country = {
+		CivilWar_country_in_civil_war = {
+			picture = SOV_country_in_civil_war
+			removal_cost = -1
+			allowed = {
+				always = no
+				}
+			modifier = {
+				political_power_factor = -0.15
+				stability_factor = -0.25
+				war_support_factor = 0.10
+				army_org_Factor = 0.05
+				}
+		}
+		CivilWar_weak_industry = {
+			picture = SOV_weak_industry
+			removal_cost = -1
+			allowed = {
+				always = no
+				}
+			modifier = {
+				consumer_goods_factor = 0.05
+				production_speed_buildings_factor = -0.15
+				industrial_capacity_factory = -0.15
+				production_speed_industrial_complex_factor = -0.1
+				production_speed_arms_factory_factor = -0.1				
+				}
+		}
+		CivilWar_risk_of_starvation = {
+			picture = unknown
+			removal_cost = -1
+			allowed = {
+				always = no
+				}
+			modifier = {
+				}
+		}
+		CivilWar_overloaded_infrastructure = {
+			picture = unknown
+			removal_cost = -1
+			allowed = {
+				always = no
+				}
+			modifier = {
+				army_speed_Factor = -0.05
+				army_org_Factor = -0.1
+				supply_factor = -0.15
+				production_speed_infrastructure_factor = -0.1
+				production_speed_rail_way_factor = -0.1
+				}
+		}		
+		CivilWar_partisans_of_NRA = {
+			picture = RUS_partisans_of_NRA
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+			}
+		}
+		CivilWar_dissatisfaction_with_the_government = {
+			picture = RUS_dissatisfaction_with_the_government
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+			}
+		}		
+		CivilWar_nationwide_strike = {
+			picture = RUS_nationwide_strike
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+			}
+		}				
+		CivilWar_divided_goverment = {
+			picture = RUS_divided_goverment
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+			}
+		}						
+		CivilWar_disloyal_millitary_headquoters = {
+			picture = RUS_disloyal_millitary_headquoters
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+			}
+		}								
+		CivilWar_japan_influence = {
+			picture = RUS_japan_influence
+			removal_cost = -1
+			allowed = {
+				always = no
+			}
+			modifier = {
+			}
+		}										
+	}
+}

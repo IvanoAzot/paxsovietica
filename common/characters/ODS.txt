@@ -1,0 +1,15 @@
+characters={
+	ODS_vladimir_yudovsky={
+		name=ODS_vladimir_yudovsky
+		portraits={
+			civilian={
+				large=GFX_portrait_ODS_vladimir_yudovsky
+			}
+		}
+		country_leader={
+			ideology=marxism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+	SRS_lavr_kornilov = {
+		name = SRS_lavr_kornilov
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_SRS_lavr_kornilov"
+			}
+		}
+		country_leader = {
+			ideology = oligarchism
+			expire = "1953.3.1.1"
+			id = -1
+		}
+	}	
+}

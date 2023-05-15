@@ -1,0 +1,15 @@
+characters={
+	UKR_pavel_skoropadskiy={
+		name=UKR_pavel_skoropadskiy
+		portraits={
+			civilian={
+				large=GFX_portrait_UKR_pavel_skoropadskiy
+			}
+		}
+		country_leader={
+			ideology=despotism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,15 @@
+characters = {
+	ERS_petr_vologodsky = {
+		name = ERS_petr_vologodsky
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_ERS_petr_vologodsky"
+			}
+		}
+		country_leader = {
+			ideology = liberalism
+			expire = "1953.3.1.1"
+			id = -1
+		}
+	}	
+}
